@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923218451535",
+    "project_id": "devhub-dev",
+    "storage_bucket": "devhub-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923218451535:android:8f028faa4e570812e85e3a",
+        "android_client_info": {
+          "package_name": "com.devhub.devhub_hrms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRGu9OTqRzh417puD0xivxWBq5DxHVXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923218451535:android:67bd7b4c8bbc6d18e85e3a",
+        "android_client_info": {
+          "package_name": "com.devhub.shine_loan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRGu9OTqRzh417puD0xivxWBq5DxHVXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
